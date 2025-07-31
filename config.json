@@ -1,0 +1,9 @@
+{
+  "download_settings": {
+    "path": "C:/Users/quanr/Desktop/tt",
+    "concurrent": 3,
+    "timeout": 30,
+    "retry_count": 3
+  },
+  "last_updated": "2025-07-31T09:12:19.642612"
+}

@@ -1,0 +1,9 @@
+{
+  "download_path": "C:\\Users\\quanr\\Desktop\\tt",
+  "concurrent_downloads": 3,
+  "timeout_seconds": 30,
+  "max_retries": 3,
+  "auto_validation": true,
+  "log_level": "INFO",
+  "theme": "dark"
+}
